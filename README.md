@@ -11,3 +11,7 @@ on here my were learn and Familiar with various git command. This is a begaining
 ## Learning progress
 
 1. Use GitHub Help
+2. Learning `git clone`
+3. Learning `git add`
+4. Learning `git commit`
+5. Learming `git push`
