@@ -6,7 +6,8 @@ on here my were learn and Familiar with various git command. This is a begaining
 
 ## Local development
 
-1. Open index.html in your browser.
+1. Use python3 to run Helloworld.py
+2. Open index.html in your browser.
 
 ## Learning progress
 
@@ -14,4 +15,4 @@ on here my were learn and Familiar with various git command. This is a begaining
 2. Learning `git clone`
 3. Learning `git add`
 4. Learning `git commit`
-5. Learming `git push`
+5. Learning `git push`
