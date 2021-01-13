@@ -7,3 +7,7 @@ on here my were learn and Familiar with various git command. This is a begaining
 ## Local development
 
 1. Open index.html in your browser.
+
+## Learning progress
+
+1. Use GitHub Help
