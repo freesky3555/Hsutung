@@ -2,9 +2,9 @@
 ### Creat time   
 Tue 12 Jan 2021 05:  17:  42 AM CST
 
-## Explanation
-This is my first project for github. First programe Name is Hello world.
-On here I will learn and Familiar with various git command. This is a begaining.
+## 
+### This is my first project for github. First programe Name is Hello world.
+### On here I will learn and Familiar with various git command. This is a begaining.
 
 ## Local development
 
@@ -19,4 +19,4 @@ On here I will learn and Familiar with various git command. This is a begaining.
 4. Learning `git commit`
 5. Learning `git pull`
 6. Learning `git push`
-7. Learning `git branche`
+7. Learning `git branch`
