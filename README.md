@@ -1,6 +1,6 @@
-# README.md
+# README
 ### Creat time   
-Tue 12 Jan 2021 05:  17:  42 AM CST
+> Tue 12 Jan 2021 05:  17:  42 AM CST
 
 ## 
 This is my first project for github. First programe Name is Hello world.
