@@ -9,8 +9,8 @@ _I'm a **student**, I will always be a **student**._
 
 ## Local development
 
-1. Use python3 to run Helloworld.py
-2. Open index.html in your browser.
+1. _Use python3 to run Helloworld.py_
+2. ~~Open index.html in your browser.~~
 
 ## Learning progress
 
