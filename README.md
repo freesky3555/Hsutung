@@ -45,3 +45,28 @@ typeit(text, "1.0", "Hello, World!\nHello, 2021!\nHello, GitHub!\nThis is a gree
 
 root.mainloop()
 ```
+## index.html
+<html>
+    <head>
+        <title>HT.wang</title>
+    </head>
+    <body>
+            <center>                                          <br>                        <br>
+            <div>                                             <font size=+4>Hello, World! </font> <br>
+            <hr width=50% align=center>                       <br>                        <br>
+            <font size=+2>  This is a greeting from City Yuci </font>                     <div>
+            </center>
+        <hr width=50% align=center>
+        <!-- display my photo picture -->
+        <center>
+        <img src="pictrue/self.jpeg" width=220>
+        </center>
+            <hr width=50% align=center>                       <br>                        <br>
+        <!-- display my email address -->
+        <center>
+        <a href="mailto:freesky3555@gmail.com">Email Me</a>
+        </center><br>
+        <!-- display copyright -->
+        <center>&trade;HT.wang&copy;HT.wang</center><br><br>
+    </body>
+</html>
