@@ -21,3 +21,5 @@ _I'm a **student**, I will always be a **student**._
 5. Learning `git pull`
 6. Learning `git push`
 7. Learning `git branch`
+8. Learning `git rebase`
+9. Learning `git reset`
