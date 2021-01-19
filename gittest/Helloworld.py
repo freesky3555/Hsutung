@@ -14,7 +14,7 @@ def typeit(widget, index, string):
          index = widget.index("%s + 1 char" % index)
 
          # type the next character in half a second
-         widget.after(250, typeit, widget, index, string[1:])
+         widget.after(130, typeit, widget, index, string[1:])
 
 root = tk.Tk()
 text = tk.Text(root, width=40, height=8, font=("Arial",25))
