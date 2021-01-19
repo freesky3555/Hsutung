@@ -46,7 +46,6 @@ typeit(text, "1.0", "Hello, World!\nHello, 2021!\nHello, GitHub!\nThis is a gree
 root.mainloop()
 ```
 ## index.html
-```
 <html>
     <head>
         <title>HT.wang</title>
@@ -71,4 +70,3 @@ root.mainloop()
         <center>&trade;HT.wang&copy;HT.wang</center><br><br>
     </body>
 </html>
-```
