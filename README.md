@@ -9,8 +9,8 @@
 
 ## Local development
 
-1. _Use python3 to run Helloworld.py_
-2. ~~Open index.html in your browser.~~
+- _Use python3 to run Helloworld.py_
+- ~~Open index.html in your browser.~~
 
 ## Learning progress
 
