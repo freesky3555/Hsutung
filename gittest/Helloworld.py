@@ -17,9 +17,9 @@ def typeit(widget, index, string):
          widget.after(130, typeit, widget, index, string[1:])
 
 root = tk.Tk()
-text = tk.Text(root, width=40, height=8, font=("Arial",25))
+text = tk.Text(root, width=40, height=8, font=("Arial",25), fg = "#8B0000")
 text.pack(fill="both", expand=True)
-typeit(text, "1.0", "Hello, World!\nHello, 2021!\nHello, GitHub!\nThis is a greeting from CITY YuCi(榆次) !!")
+typeit(text, "1.0", "\t\t\nHello, World!\nHello, 2021!\nHello, GitHub!\nThis is a greeting from CITY YuCi(榆次) !!")
 
 root.mainloop()
 #############################################################
